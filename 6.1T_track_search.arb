@@ -85,7 +85,7 @@ def search_for_track_name(tracks, search_string)
 end
 
 def main()
-  	music_file = File.new("6.1_album.txt", "r")
+  	music_file = File.new("Texts/6.1_album.txt", "r")
 	tracks = read_tracks(music_file)
   	music_file.close()
 	print_tracks(tracks)
