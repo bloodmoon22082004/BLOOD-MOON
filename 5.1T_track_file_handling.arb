@@ -36,7 +36,7 @@ def print_track(track)
 end
 
 def main()
-  a_file = File.new("5.1_input.txt", "r")
+  a_file = File.new("Texts/5.1_input.txt", "r")
   tracks = read_tracks(a_file)
   print_tracks(tracks)
 end
