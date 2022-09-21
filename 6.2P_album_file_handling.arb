@@ -62,7 +62,7 @@ def print_album(album)
 end
 
 def main()
-	music_file = File.new("6.2_album.txt", "r")
+	music_file = File.new("Texts/6.2_album.txt", "r")
 	album = read_album(music_file)
     tracks = read_tracks(music_file)
 	music_file.close()
