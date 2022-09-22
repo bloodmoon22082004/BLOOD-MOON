@@ -1,3 +1,5 @@
+# By BLOODMOON
+
 def read_string prompt
 	puts prompt
 	value = gets.chomp
