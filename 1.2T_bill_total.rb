@@ -1,3 +1,5 @@
+# By BLOODMOON
+
 def main()
 	puts('Enter the appetizer price:')
 	appetizer_price = gets().to_f() 
