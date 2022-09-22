@@ -1,3 +1,5 @@
+# By BLOODMOON
+
 require './input_functions.rb'
   
 $genre_names = ['Null', 'Pop', 'Classic', 'Jazz', 'Rock']
