@@ -1,3 +1,5 @@
+# By BLOODMOON
+
 def write_data_to_file(a_file)   
   a_file = File.new("Texts/4.1_mydata.txt", "w")   
     a_file.puts('5')   
