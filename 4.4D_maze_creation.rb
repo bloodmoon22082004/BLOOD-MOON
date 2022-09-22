@@ -1,3 +1,5 @@
+# By BLOODMOON
+
 require 'gosu'
 
 class GameWindow < Gosu::Window
