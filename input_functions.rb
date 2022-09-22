@@ -1,3 +1,5 @@
+# By BLOODMOON
+
 # Display the prompt and return the read string
 def read_string prompt
 	puts prompt
