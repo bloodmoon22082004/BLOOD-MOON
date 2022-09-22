@@ -1,3 +1,5 @@
+# By BLOODMOON
+
 require "rubygems"
 require "gosu"
 
