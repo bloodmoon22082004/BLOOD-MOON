@@ -1,3 +1,5 @@
+# By BLOODMOON
+
 require 'date'
 
 def read_string prompt
