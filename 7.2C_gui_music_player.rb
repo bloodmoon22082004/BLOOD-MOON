@@ -1,3 +1,5 @@
+# By BLOODMOON
+
 require 'gosu'
 require './input_functions.rb'
 
