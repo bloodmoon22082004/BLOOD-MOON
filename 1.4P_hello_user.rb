@@ -1,3 +1,5 @@
+# By BLOODMOON
+
 require 'date'
 
 INCHES = 39.3701
