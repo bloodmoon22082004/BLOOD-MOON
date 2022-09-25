@@ -20,7 +20,7 @@ class Hunter
     @yuk = Gosu::Sample.new("media/Yuk.wav")
     @yum = Gosu::Sample.new("media/Yum.wav")
 
-    @hunted = hunted  # default
+    @hunted = hunted
     @hunted_image = Gosu::Image.new("media/SmallIcecream.png")
 
     @vel_x = @vel_y = 3.0
@@ -164,7 +164,7 @@ class FoodHunterGame < (Example rescue Gosu::Window)
     collect_food(@all_food, @player)
 
 
-   if rand(500) < 2 and @all_food.size < 4
+   if rand(100) < 2 and @all_food.size < 4
       @all_food.push(generate_food)
    end
 
@@ -204,8 +204,10 @@ class FoodHunterGame < (Example rescue Gosu::Window)
 
   def draw
     @background_image.draw(0, 0, ZOrder::BACKGROUND)
-    draw_hunter @player
-    @all_food.each { |food| draw_food food }
+    draw_hunter(@player)
+    @all_food.each do |food| 
+      draw_food(food) 
+    end
     @font.draw("Score: #{@player.score}", 10, 10, ZOrder::UI, 1.0, 1.0, Gosu::Color::YELLOW)
   end
 
@@ -216,7 +218,7 @@ class FoodHunterGame < (Example rescue Gosu::Window)
     when 1
       Food.new("media/Burger.png", :burger)
     when 2
-      Food.new("media/IceCream.png", :icecream)
+      Food.new("media/Icecream.png", :icecream)
     when 3
       Food.new("media/Pizza.png", :pizza)
     end
