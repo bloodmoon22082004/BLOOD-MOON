@@ -8,6 +8,16 @@ class GameWindow < Gosu::Window
         super 200, 200, false
         self.caption = "Map Creation"
         @array = Array.new(11) { Array.new(11) { 0 } }
+        i = 0
+        while (i < 10)
+            j = 0
+            while (j < 10)
+                puts("Cell x: " + i.to_s + ", y: " + j.to_s + " north: " + check_top(i, j).to_s + " south: " + check_bottom(i, j).to_s + " east: " + check_right(i, j).to_s + " west: " + check_left(i, j).to_s)
+                j += 1
+            end
+            puts("---------- End of Column ----------")
+            i += 1
+        end
     end
     
     def check_left(i, j)
@@ -60,7 +70,6 @@ class GameWindow < Gosu::Window
                     l = j * 20 + 10
                     if (Gosu.distance(mouse_x, mouse_y, k, l) <= 10) 
                         @array[i][j] = 1
-                        puts("Cell x: " + i.to_s + ", y: " + j.to_s + " north: " + check_top(i, j).to_s + " south: " + check_bottom(i, j).to_s + " east: " + check_right(i, j).to_s + " west: " + check_left(i, j).to_s)
                     end        
                     j += 1
                 end
