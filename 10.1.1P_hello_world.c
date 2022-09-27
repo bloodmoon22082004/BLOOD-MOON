@@ -1,4 +1,4 @@
-/* By BLOODMOON */
+// By BLOODMOON
 
 #include <stdio.h>
 
