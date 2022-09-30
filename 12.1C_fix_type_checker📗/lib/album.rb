@@ -87,6 +87,6 @@ module Genre
 
   # main
 
-    # I had trouble at this stage, if I keep "main" command when steep checking it had an error: "NoMethodError: type=::Object, method=main (main)". 
+    # I had a major trouble at this stage, if I keep "main" command when steep checking it had an error: "NoMethodError: type=::Object, method=main (main)". 
     # However, if I remove "main" command, it would not produce the output!!!
     # What should I do??   =))))))
