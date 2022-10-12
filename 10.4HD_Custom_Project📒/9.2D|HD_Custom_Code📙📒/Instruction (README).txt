@@ -1,4 +1,4 @@
-Hi, my name is Trung Kien Nguyen (nickname BLOODMOON) !!!
+Hi, I am BLOODMOON !!!
 
 Just run the Games_menu.rb file to run the program, the other files are sub-files only
 You must go to the link to download the 'Media' folder!
