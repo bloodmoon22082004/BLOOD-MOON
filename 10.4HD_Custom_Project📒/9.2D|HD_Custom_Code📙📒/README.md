@@ -8,8 +8,6 @@ To have a look on my program, please see the Custom Code Demonstration Video in:
 or
     https://drive.google.com/file/d/1PpU4S84oT4_XnqY2UT9IWOXn6VpfmeuJ/view?usp=sharing
 
-P/s: In this video I will only try to give a clear and overall instruction of how to use the program
-and play the four games, for more information, especially the code explanation, please see my 
-attached report pdf file!!
+P/s: In this video I will only try to give a clear and overall instruction of how to use the program and play the four games, for more information, especially the code explanation, please see my attached report pdf file!!
 
 Thank you very much!!
