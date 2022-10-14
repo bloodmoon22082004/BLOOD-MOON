@@ -1,4 +1,4 @@
-# By BLOODMOON
+# By MOON
 
 # Display the prompt and return the read string
 def read_string prompt
