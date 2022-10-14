@@ -1,4 +1,4 @@
-# By BLOODMOON
+# By MOON
 
 def main()
 	puts('Enter the appetizer price:')
