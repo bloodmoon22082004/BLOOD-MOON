@@ -1,4 +1,4 @@
-// By BLOODMOON
+// By MOON
 
 #include <stdio.h>
 #include <string.h>
