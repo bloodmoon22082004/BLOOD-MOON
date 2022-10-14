@@ -1,4 +1,4 @@
-// By BLOODMOON
+// By MOON
 
 // ============================
 // = User Input Function in C =
