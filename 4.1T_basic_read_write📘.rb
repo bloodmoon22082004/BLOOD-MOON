@@ -1,4 +1,4 @@
-# By BLOODMOON
+# By MOON
 
 def write_data_to_file(a_file)   
   a_file = File.new("Texts/4.1_mydata.txt", "w")   
