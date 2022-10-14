@@ -1,4 +1,4 @@
-# By BLOODMOON
+# By MOON
 
 # Acknowledgement to the original authors of the code on which this 
 # example is based.
