@@ -1,4 +1,4 @@
-# By BLOODMOON
+# By MOON
 
 # returns true if a string contains only digits
 def is_numeric?(obj)
