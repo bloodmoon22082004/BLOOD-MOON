@@ -1,3 +1,3 @@
-# By BLOODMOON
+# By MOON
 
 print('Hello World!')
