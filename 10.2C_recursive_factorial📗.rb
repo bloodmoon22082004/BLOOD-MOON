@@ -1,4 +1,4 @@
-# By BLOODMOON
+# By MOON
 
 def factorial(n)
     ref = 1
