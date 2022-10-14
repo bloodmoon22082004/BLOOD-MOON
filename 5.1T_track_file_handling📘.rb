@@ -1,4 +1,4 @@
-# By BLOODMOON
+# By MOON
 
 class Track
 	attr_accessor :name, :location
