@@ -1,4 +1,4 @@
-# By BLOODMOOND
+# By MOON
 
 # Use the scaffold code provided for this task. Complete the following code requirements in the Ruby language for the file ship.rb. Your final code must be structured and run. 
 # Requirements:
