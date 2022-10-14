@@ -1,4 +1,4 @@
-# By BLOODMOON
+# By MOON
 
 def read_string(pattern):
     print(pattern)
