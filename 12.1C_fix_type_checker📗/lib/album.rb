@@ -1,4 +1,4 @@
-# By BLOODMOON
+# By MOON
 
 module Genre
     POP, CLASSIC, JAZZ, ROCK = *1..4
