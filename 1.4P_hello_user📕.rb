@@ -1,4 +1,4 @@
-# By BLOODMOON
+# By MOON
 
 require 'date'
 
