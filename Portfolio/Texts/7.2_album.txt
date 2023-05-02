@@ -1,0 +1,14 @@
+V
+Maroon 5
+media/maroon5.jpg
+5
+It Was Always You
+media/it_was_always_you.wav
+Sugar
+media/sugar.wav
+New Love
+media/new_love.wav
+Feelings
+media/feelings.wav
+Me Heart Is Open
+media/my_heart_is_open.wav
